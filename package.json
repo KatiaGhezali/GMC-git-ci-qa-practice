@@ -8,7 +8,8 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "lint": "eslint src tests"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/KatiaGhezali/GMC-git-ci-qa-practice/issues"
   },
-  "homepage": "https://github.com/KatiaGhezali/GMC-git-ci-qa-practice#readme"
+  "homepage": "https://github.com/KatiaGhezali/GMC-git-ci-qa-practice#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
 }
