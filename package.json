@@ -1,0 +1,25 @@
+{
+  "name": "gmc-git-ci-qa-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatiaGhezali/GMC-git-ci-qa-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/KatiaGhezali/GMC-git-ci-qa-practice/issues"
+  },
+  "homepage": "https://github.com/KatiaGhezali/GMC-git-ci-qa-practice#readme"
+}
